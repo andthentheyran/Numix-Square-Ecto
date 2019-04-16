@@ -1,0 +1,57 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3173" x2="0" y1="1051.4" y2="1005.4" gradientTransform="translate(0 .0021652)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#2483cc" offset="0"/>
+   <stop style="stop-color:#50a7e9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <path d="m5 1006.4c-2.216 0-4 1.784-4 4v37.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-37.25c0-2.216-1.784-4-4-4h-38zm-4 41.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+  <path d="m1 1047.6v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+  <rect x="1" y="1005.6" width="46" height="46" rx="4" style="opacity:.1"/>
+ </g>
+ <g transform="translate(0 -1004.4)">
+  <rect x="1" y="1005.4" width="46" height="46" rx="4" style="fill:url(#linearGradient3173)"/>
+  <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ </g>
+ <g transform="translate(-4e-8 .53846)" style="opacity:.1">
+  <g transform="matrix(.76923 0 0 .76923 7.7692 5.5385)" style="opacity:.8">
+   <path d="m12 16 26 2h-10-4z"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+  </g>
+  <g transform="matrix(.92308 0 0 .92308 -.076923 .15385)">
+   <path d="m12 16 26 2h-10-4z"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+  </g>
+  <g transform="matrix(.53846 0 0 .53846 16.538 13.615)" style="opacity:.6">
+   <path d="m12 16 26 2h-10-4z"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z"/>
+  </g>
+ </g>
+ <g transform="translate(-4e-8 -.46154)">
+  <g transform="matrix(.76923 0 0 .76923 7.7692 5.5385)" style="opacity:.8">
+   <path d="m12 16 26 2h-10-4z" style="fill:#333"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z" style="fill:#333"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#333"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#d6d610"/>
+  </g>
+  <g transform="matrix(.92308 0 0 .92308 -.076923 .15385)">
+   <path d="m12 16 26 2h-10-4z" style="fill:#333"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z" style="fill:#333"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#333"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#d6d610"/>
+  </g>
+  <g transform="matrix(.53846 0 0 .53846 16.538 13.615)" style="opacity:.6">
+   <path d="m12 16 26 2h-10-4z" style="fill:#333"/>
+   <path d="m24 21-2 5-3 6 3 2-1-2 3-6-1 7 3 2-1-2v-4l2-8 1-2h-4z" style="fill:#333"/>
+   <path transform="matrix(1.3333 0 0 1.3333 -6.6667 -1.6667)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#333"/>
+   <path transform="translate(2,2.5)" d="m26 12.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" style="fill:#d6d610"/>
+  </g>
+ </g>
+</svg>
